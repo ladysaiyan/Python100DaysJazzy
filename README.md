@@ -3,7 +3,7 @@
 ## Getting started
 I will get into how I started this journey in more detail maybe another time but let's just say it involved, prayer, changes to my job, AI, personal projects, and a desire to learn something new!
 
-Below I am going to share where I started and where I am at currently when it came to learning.
+Below I am going to share where I started and where I am currently when it came to learning.
 - Talked to my husband about joing me in learning Python (now we are a team working on this together)
 - Researching Training Course
    1. This included online courses, bootcamps, books, and certificates
