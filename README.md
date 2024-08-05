@@ -11,6 +11,10 @@ Below I am going to share where I started and where I am at currently when it ca
 - Downloading Tool for usage [Visual Studio (VS)](https://visualstudio.microsoft.com/downloads/) or [VS Code](https://code.visualstudio.com/Download) (this is a lighterweight version of VS) You can switch between the two if you like which I doo as a program I use seems to like the VS version more
 - Customizing my VS Studio, theme wise because this was the best I could do to learn how to use it lol. Also I wanted it to be in colors that felt good to me ( I went with a cyberpunk purple and green)
   
+
+https://github.com/user-attachments/assets/2afeaa51-ab8a-4915-8e0a-d89e81c00b31
+
+
 - Purchase a book called [Coding Projects in Python](https://www.amazon.com/Coding-Projects-Python-DK/dp/1465461884/ref=sr_1_10?crid=65JYWZ8M9ZKN&dib=eyJ2IjoiMSJ9.XuYgTq1WXlAcDlaWcnKYU0_bEhBsYZuKhtzj7u7XCM1_V8yMLXXegB9LCj8PMDnCAyYQAFDm34cHR3zwVgciRC9WKCNqz2lvw8tFUKxwgCFX-YofSXOgweL2xG5_iu7-oPTK4Dx_cOZv2Pis3I0lzR0ZF3Ch1LH3hCVz6Ys3Kae9bTtY3z7sb9dI3XTAOo_RsMMePU3WfIGlykNwfq-ESROqXsWop0UAZUMYMwy33WbBnUcMooEOF1BEUnhgrSgRXWRKfTCpgPbFOi_ISJqEns3MegjRFVdf77tTIG-m-hs.yAlnfHe8qEGEvgo3cpWj-ta36kuEilJYN0CWLxzzB1I&dib_tag=se&keywords=python+for+kids&qid=1722889415&sprefix=python%2Caps%2C101&sr=8-10)
   
 - Looked up [Introduction to Python](https://vscode.dev/edu?courseId=intro-to-python&workspace-scheme=vscode-edu-workspace&profile=default&otac=sVNmzsbj7t&requestId=415249fa-abf5-4198-a408-7379d3d8ec67&region=eastus) on the VS Code for EDU which was a great start. Unit 1 was fantastic
@@ -19,8 +23,15 @@ Below I am going to share where I started and where I am at currently when it ca
   1.  Has projects, easy to learn lessons, some challenges, and was on sale for $18 at the time
   2.  The instructor tends to recommend a couple of dev products that I had never heard of but I decided to stay with Visual Studio and Github cause that is what I've seen used by people at my job as well as some youtubers
   3.  On Day 2.5 I created my first Python Visual Novel game test using [Ren'py](https://www.renpy.org/) (my younger sister put me on to this)
+     
+
+https://github.com/user-attachments/assets/36b9b8f3-a75c-455b-88c9-bbed06793f13
+
+
 -   Looked for Github courses like this one [Mastering Github Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 -   Also took a live Github course at work
+-      Learned about Github markdown!
+ I would recommend forking this for yourself [Github Markdown Cheatsheet](https://github.com/im-luka/markdown-cheatsheet)
 
 ---
-So that is my journey so far, as you can see I am documenting it within Github for others to see
+So that is my journey so far, as you can see I am documenting it within Github for others to see. I will be starting Day 5 of my Coding course today!
