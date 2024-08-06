@@ -5,6 +5,7 @@ I will get into how I started this journey in more detail maybe another time but
 
 Below I am going to share where I started and where I am currently when it came to learning.
 - Talked to my husband about joing me in learning Python (now we are a team working on this together)
+- Decided to use my Surface Pro 7 as my dev machine
 - Researching Training Course
    1. This included online courses, bootcamps, books, and certificates
    2. I also looked at a couple of youtubers that talked about their developer journey
